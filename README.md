@@ -1,15 +1,15 @@
-# Gym_System
+# Academia Ginasio 18
 
 ---
 
 ### Engenharia de Software 1
 
-- Ana Carolina
-- Elias
-- Endrew
-- Henrique
-- João
-- Leonardo
+- Ana Carolina Gonsalves Neves
+- Elias Motta Dias Silva Junior
+- Endrew Marra Pedrosa
+- Henrique Sant'Ana
+- João Franklin Goes Amorin
+- Leonardo Vidal Rosa
 
 ---
 
