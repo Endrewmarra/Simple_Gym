@@ -1,4 +1,4 @@
-# Academia Ginasio 18
+# Simple Gym
 
 ---
 
@@ -32,7 +32,7 @@ Cada um dos envolvidos tem acesso aos arquivos disponíveis aqui e podem modific
 Clonem o repositório do projeto pelo aplicativo do GitHub Desktop ou via linha de comando em seu terminal.
 
 ```bash
- git clone https://github.com/Endrewmarra/Gym_System.git
+ git clone https://github.com/Endrewmarra/Symple_Gym.git
 ```
 
 Depois de clonado basta acessar a pasta do projeto pela sua IDE (Recomendado VScode)
