@@ -31,8 +31,16 @@ O projeto está na fase de **elicitação e especificação de requisitos**. Ain
 - [Seminário](docs/06-seminario/README.md)
 - [Fichas de avaliação](docs/07-fichas-de-avaliacao/README.md)
 - [Estrutura e migração do repositório](ESTRUTURA.md)
-- [Como contribuir](CONTRIBUTING.md)
 
-## Regra de manutenção
 
-Os arquivos Markdown de `docs/03-requisitos/` são a fonte principal para regras e requisitos rastreáveis pelo Git. Mudanças devem ser feitas por pull request, sem reutilizar identificadores removidos e com atualização da matriz de rastreabilidade e do histórico de alterações.
+## Manutenção dos requisitos
+
+Os arquivos Markdown de `docs/03-requisitos/` são a fonte principal das regras e dos requisitos do projeto.
+
+Ao realizar alterações:
+
+- preserve os identificadores existentes;
+- não renumere os itens seguintes quando algum requisito for removido;
+- adicione novos itens seguindo a sequência da categoria;
+- utilize mensagens de commit que expliquem claramente a alteração;
+- valide mudanças de conteúdo com o grupo antes de registrá-las.

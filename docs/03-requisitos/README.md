@@ -1,6 +1,6 @@
 # Catálogo de Regras e Requisitos
 
-Esta pasta é a **fonte principal rastreável pelo Git** para os requisitos do Simple Gym.
+Esta pasta contém a fonte principal das regras e dos requisitos do Simple Gym, mantida em Markdown para facilitar a revisão e o histórico de alterações pelo Git.
 
 ## Arquivos
 
@@ -10,8 +10,6 @@ Esta pasta é a **fonte principal rastreável pelo Git** para os requisitos do S
 - [Requisitos inversos](requisitos-inversos.md)
 - [Requisitos não funcionais](requisitos-nao-funcionais.md)
 - [Requisitos de interface externa](requisitos-interface-externa.md)
-- [Matriz de rastreabilidade](matriz-rastreabilidade.md)
-- [Histórico de alterações](changelog.md)
 
 ## Fonte
 

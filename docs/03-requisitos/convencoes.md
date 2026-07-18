@@ -1,6 +1,6 @@
 # Convenções e Notação
 
-Não existe uma única notação universal obrigatória para todos os documentos de requisitos. Este projeto segue a convenção solicitada no modelo da disciplina e mantém identificadores estáveis para facilitar a rastreabilidade.
+Não existe uma única notação universal obrigatória para todos os documentos de requisitos. Este projeto segue a convenção solicitada no modelo da disciplina e mantém identificadores estáveis para facilitar a identificação e o versionamento dos itens.
 
 ## Regras de negócio
 
@@ -66,8 +66,17 @@ Os códigos foram adicionados aos textos já existentes apenas para facilitar re
 
 ## Regras de versionamento
 
-1. Um código nunca deve ser reutilizado para outro item.
-2. Um item removido deve permanecer no histórico como descontinuado, sem renumeração dos seguintes.
-3. Mudanças de sentido devem ser validadas pelo grupo ou stakeholder.
-4. Toda inclusão, alteração ou remoção deve atualizar o changelog.
-5. Referências entre regras e requisitos devem ser atualizadas na matriz de rastreabilidade.
+1. Cada regra ou requisito deve possuir um identificador único.
+2. Um identificador não deve ser reutilizado para representar outro item.
+3. A revisão do texto não altera o código do requisito.
+4. Um item removido não provoca a renumeração dos itens seguintes.
+5. Novos itens devem seguir a sequência numérica da respectiva categoria.
+6. Alterações de sentido devem ser validadas pelo grupo ou pelo stakeholder responsável.
+7. As mensagens de commit devem indicar quais itens foram alterados.
+
+Exemplos:
+
+```text
+docs: corrigir descrição do RF03
+docs: atualizar RN07 após validação do grupo
+docs: adicionar RF24 validado pelo stakeholder

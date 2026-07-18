@@ -1,6 +1,6 @@
 # Histórias de Usuário
 
-> Os códigos foram adicionados para rastreabilidade. Nenhuma nova história foi criada.
+> Os códigos foram adicionados apenas para identificar e versionar as histórias pelo Git. Nenhuma nova história foi criada.
 
 ## US01 — Administrador
 
