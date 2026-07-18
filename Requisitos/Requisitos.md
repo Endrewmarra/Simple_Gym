@@ -1,1 +1,0 @@
-Requisitos de sistema a preencher.

@@ -1,0 +1,16 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários do Microsoft Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Arquivos temporários e de backup
+*.tmp
+*.bak
+*.swp
+
+# Saídas locais que não devem ser versionadas
+*.log
