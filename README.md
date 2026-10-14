@@ -1,16 +1,16 @@
-# Simple Gym
+# All a Gym
 
-Projeto acadêmico desenvolvido na disciplina de **Engenharia de Software I** para a elaboração da Especificação de Requisitos do Sistema da Academia Ginásio 18.
+Projeto acadêmico desenvolvido como **projeto de extensão** para a elaboração da Especificação de Requisitos do Sistema da Academia Ginásio 18.
 
 ## Contexto
 
-A academia já utiliza um sistema contratado, mas foram identificadas limitações de usabilidade, mobilidade e aderência à rotina do negócio. A proposta do Simple Gym é documentar uma futura solução web com interface mais moderna, remoção de módulos desnecessários e inclusão de funcionalidades relevantes para a academia.
+A academia já utiliza um sistema contratado, mas foram identificadas limitações de usabilidade, mobilidade e aderência à rotina do negócio. A proposta do *All a Gym* é documentar uma futura solução web com interface mais moderna, remoção de módulos desnecessários e inclusão de funcionalidades relevantes para a academia.
 
 O ponto inicial do projeto foi a necessidade de otimizar a elaboração de treinos pelo educador físico. Durante a elicitação, o escopo passou a considerar também processos administrativos, financeiros, controle de acesso e uma área destinada aos alunos.
 
 ## Fase atual
 
-O projeto está na fase de **elicitação e especificação de requisitos**. Ainda não foram definidas tecnologias, arquitetura, banco de dados, diagramas de classes ou implementação.
+O projeto está na fase de **Modelagem geral**. Ainda não foram definidas tecnologias, arquitetura, banco de dados, diagramas de classes ou implementação.
 
 ## Integrantes
 
